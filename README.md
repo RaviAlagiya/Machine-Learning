@@ -1,6 +1,6 @@
 # Machine-Learning : Naive Bayes classifiers based on histograms, Gaussians, and mixtures of Gaussians
 
-How to Run :
+How to Run the code :
 1) type "javac SampleClass.java"
 2) press enter.
 
@@ -12,7 +12,6 @@ For histograms:
 5) java naive_bayes.java <training_file> <test_file> histograms <number>
 6) press enter.
 example : 
-
 java naive_bayes yeast_training.txt yeast_test.txt histograms 7
 #naive_bayes <training_file> <test_file> histograms <number of histrogram>
 
