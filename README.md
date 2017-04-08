@@ -1,4 +1,5 @@
-# Machine-Learning : Naive Bayes classifiers based on histograms, Gaussians, and mixtures of Gaussians
+# Machine-Learning : 
+Classification Task : Naive Bayes classifiers based on histograms, Gaussians, and mixtures of Gaussians
 
 How to Run the code :
 1) type "javac SampleClass.java"
